@@ -1,6 +1,6 @@
 {
   "name": "ilx-alienvault-otx",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Alien Vault OTX integration",
   "main": "index.js",
   "scripts": {
