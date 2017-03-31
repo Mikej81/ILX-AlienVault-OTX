@@ -8,5 +8,9 @@
   },
   "author": "Michael Coleman <stumpj@gmail.com>",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/Mikej81/ILX-AlienVault-OTX.git"
+  }
 }
